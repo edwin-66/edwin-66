@@ -12,7 +12,7 @@
 
 I build retrieval and multi-agent systems, then do the less glamorous part: evaluate them, put guardrails around them, and get them into production where real people use them.
 
-### What I have built
+### What I have built <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />
 
 - Cut merchant issue resolution time by **66%** at Payrails with a custom Claude Code plugin (agent skills plus MCP servers across internal platforms).
 - Raised a production support agent from **47% to 75%** resolution rate by building the LLM evaluation frameworks that showed where it was failing.
