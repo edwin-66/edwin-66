@@ -41,10 +41,12 @@ me = AIEngineer()
 me.say_hi()
 ```
 
+<!-- > 
 ### Code you can read
 
 - [AI Governance GraphRAG System](https://github.com/edwin-66/AI-Governance-GraphRAG-System): hybrid Graph RAG (NetworkX knowledge graph plus ChromaDB vector search), validated against baseline RAG on multi-hop questions.
 - [Document Question-Answering Platform](https://github.com/edwin-66/Document-Question-Answering-Platform-with-LLM): end-to-end RAG over PDFs and web content with LangChain and Ollama.
+-->
 
 ### Tech stack
 
