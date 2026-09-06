@@ -10,7 +10,7 @@
 <img align="right" src="PASTE_GIF_URL_HERE" width="230" alt="" />
 -->
 
-AI Engineer at Payrails in Berlin. I build retrieval and multi-agent systems, then do the less glamorous part: evaluate them, put guardrails around them, and get them into production where real people use them.
+I build retrieval and multi-agent systems, then do the less glamorous part: evaluate them, put guardrails around them, and get them into production where real people use them.
 
 ### What I have built
 
