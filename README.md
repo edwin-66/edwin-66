@@ -1,9 +1,4 @@
-<h2>Hi, I'm Edwin 👋</h2>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Edwin" /></a>
-</p>
+<h2>Hi, I'm Edwin 👋  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
