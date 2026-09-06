@@ -78,10 +78,13 @@ me.say_hi()
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<!-- > 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+-->
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-E97627?style=for-the-badge)
 
 ### Reach me
 
