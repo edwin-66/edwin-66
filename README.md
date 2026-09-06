@@ -1,5 +1,10 @@
 <h2>Hi, I'm Edwin 👋</h2>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Edwin" /></a>
+</p>
+
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer;RAG+and+multi-agent+systems+in+production;Claude+Code%2C+MCP%2C+n8n%2C+LangChain;Berlin%2C+Germany&font=Fira+Code&width=560&height=45&color=36BCF7&vCenter=true&pause=1000&size=22" alt="AI Engineer. RAG and multi-agent systems in production. Claude Code, MCP, n8n, LangChain. Berlin, Germany." />
