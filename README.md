@@ -90,8 +90,9 @@ me.say_hi()
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://edwin-samuel.vercel.app/)
 
 ### Fun fact
-
-> My favourite kind of bug is the one an evaluation catches before a user does.
+<!-- > 
+My favourite kind of bug is the one an evaluation catches before a user does. 
+-->
 
 ### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's a Pinch of Humour:
 <img src="https://readme-jokes.vercel.app/api" alt="My favourite kind of bug is the one an evaluation catches before a user does" width = '11000' />
