@@ -80,7 +80,7 @@ me.say_hi()
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-1E3A8A ?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-1E3A8A?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-8B5CF6?style=for-the-badge)
 <!-- > 
