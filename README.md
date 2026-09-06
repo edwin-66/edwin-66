@@ -19,7 +19,7 @@ AI Engineer at Payrails in Berlin. I build retrieval and multi-agent systems, th
 - Reduced average search time by **80%** on a 38,000-page knowledge base at iiterate Technologies with an agentic search system.
 - Saved B2B clients **10+ hours a week** with a semantic funding-recommendation system.
 
-### A little more about me
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```python
 class AIEngineer:
