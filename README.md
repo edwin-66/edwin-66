@@ -12,7 +12,7 @@
 
 I build retrieval and multi-agent systems, then do the less glamorous part: evaluate them, put guardrails around them, and get them into production where real people use them.
 
-### What I have built <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> What I have built
 
 - Cut merchant issue resolution time by **66%** at Payrails with a custom Claude Code plugin (agent skills plus MCP servers across internal platforms).
 - Raised a production support agent from **47% to 75%** resolution rate by building the LLM evaluation frameworks that showed where it was failing.
@@ -48,7 +48,7 @@ me.say_hi()
 - [Document Question-Answering Platform](https://github.com/edwin-66/Document-Question-Answering-Platform-with-LLM): end-to-end RAG over PDFs and web content with LangChain and Ollama.
 -->
 
-### Tech stack
+### 🛠️ Tech stack
 
 **AI and agents**
 
@@ -88,7 +88,7 @@ me.say_hi()
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 -->
 
-### Reach me
+### 📫 Reach me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edwin66main@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/edwin66)
