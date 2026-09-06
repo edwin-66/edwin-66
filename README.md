@@ -8,8 +8,9 @@
 
 <!-- Optional right-aligned GIF. Pick one on giphy.com, use Share > Copy GIF Link, then uncomment:
 <img align="right" src="PASTE_GIF_URL_HERE" width="230" alt="" />
--->
+
 <img align="right" src="https://media.giphy.com/media/HOiAe2wA8RftbE59dc/giphy.gif" width="230" alt="" />
+-->
 
 I build retrieval and multi-agent systems, then do the less glamorous part: evaluate them, put guardrails around them, and get them into production where real people use them.
 
