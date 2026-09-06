@@ -9,7 +9,7 @@
 <!-- Optional right-aligned GIF. Pick one on giphy.com, use Share > Copy GIF Link, then uncomment:
 <img align="right" src="PASTE_GIF_URL_HERE" width="230" alt="" />
 -->
-<img align="right" src="https://giphy.com/gifs/codeit-official-coding-helloworld-codeit-h408T6Y5GfmXBKW62l" width="230" alt="hi" />
+<img align="right" src="https://giphy.com/gifs/HOiAe2wA8RftbE59dc" width="230" alt="" />
 
 I build retrieval and multi-agent systems, then do the less glamorous part: evaluate them, put guardrails around them, and get them into production where real people use them.
 
