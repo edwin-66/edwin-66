@@ -95,25 +95,25 @@ me.say_hi()
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-1F77B4?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge)
 
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Temporal](https://img.shields.io/badge/Temporal-000000?style=for-the-badge&logo=temporal&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![ReadMe](https://img.shields.io/badge/ReadMe-018EF5?style=for-the-badge&logo=readme&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Plain](https://img.shields.io/badge/Plain-0A2414?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-8B5CF6?style=for-the-badge)
 <!-- > 
 ![Mintlify](https://img.shields.io/badge/Mintlify-0C8C5E?style=for-the-badge&logo=mintlify&logoColor=white)
 -->
-![Plain](https://img.shields.io/badge/Plain-0A2414?style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-8B5CF6?style=for-the-badge)
 
 ### 📫 Reach me
 
