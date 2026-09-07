@@ -109,7 +109,9 @@ me.say_hi()
 ![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![ReadMe](https://img.shields.io/badge/ReadMe-018EF5?style=for-the-badge&logo=readme&logoColor=white)
+<!-- > 
 ![Mintlify](https://img.shields.io/badge/Mintlify-0C8C5E?style=for-the-badge&logo=mintlify&logoColor=white)
+-->
 ![Plain](https://img.shields.io/badge/Plain-0A2414?style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-8B5CF6?style=for-the-badge)
 
