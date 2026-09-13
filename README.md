@@ -2,9 +2,13 @@
 
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer;RAG+and+multi-agent+systems+in+production;Claude+Code%2C+MCP%2C+n8n%2C+LangChain;Berlin%2C+Germany&font=Fira+Code&width=560&height=45&color=36BCF7&vCenter=true&pause=1000&size=22" alt="AI Engineer. RAG and multi-agent systems in production. Claude Code, MCP, n8n, LangChain. Berlin, Germany." />
+    <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer;RAG+and+multi-agent+systems+in+production;Observability%2C+tracing+and+LLM+evaluation;Claude+Code%2C+MCP%2C+n8n%2C+LangChain%2C+OpenTelemetry&font=Fira+Code&width=660&height=45&color=36BCF7&vCenter=true&pause=1000&size=22" alt="AI Engineer. RAG and multi-agent systems in production. Observability, tracing and LLM evaluation. Claude Code, MCP, n8n, LangChain, OpenTelemetry." />
   </a>
 </p>
+
+<!-- Location lives here as a tag, deliberately: Edwin asked 2026-09-13 to keep the typing
+     animation to work and skill lines only. The cyan matches the typing SVG's colour. -->
+![Based in Berlin, Germany](https://img.shields.io/badge/Based%20in-Berlin,%20Germany-36BCF7?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <!-- Optional right-aligned GIF. Pick one on giphy.com, use Share > Copy GIF Link, then uncomment:
 <img align="right" src="PASTE_GIF_URL_HERE" width="230" alt="" />
@@ -12,7 +16,7 @@
 <img align="right" src="https://media.giphy.com/media/HOiAe2wA8RftbE59dc/giphy.gif" width="230" alt="" />
 -->
 
-I build retrieval and multi-agent systems, then do the less glamorous part: evaluate them, put guardrails around them, and get them into production where real people use them.
+I build retrieval and multi-agent systems, then do the less glamorous part: evaluate them, put guardrails and observability around them, and get them into production where real people use them.
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> What I have built
 
@@ -30,10 +34,10 @@ class AIEngineer:
         self.role = "AI Engineer"
         self.location = "Berlin, Germany"
         self.code = ["Python", "SQL", "R"]
-        self.ai = ["RAG", "multi-agent systems", "LLM evaluation", "MCP", "agent skills", "guardrails"]
-        self.tools = ["Claude Code", "n8n", "LangChain", "Langfuse", "CrewAI", "Claude Agent SDK"]
+        self.ai = ["RAG", "multi-agent systems", "LLM evaluation", "observability", "MCP", "agent skills", "guardrails"]
+        self.tools = ["Claude Code", "n8n", "LangChain", "Langfuse", "OpenTelemetry", "CrewAI", "Claude Agent SDK"]
         self.data = ["PostgreSQL", "Snowflake", "Qdrant", "FAISS", "Pinecone", "MySQL"]
-        self.current_focus = "agentic systems that can be trusted in production: evaluate, guard, deploy"
+        self.current_focus = "agentic systems that can be trusted in production: evaluate, trace, guard, deploy"
 
     def say_hi(self):
         print("Thanks for dropping by. The section above is the short version of what I do.")
