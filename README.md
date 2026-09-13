@@ -1,4 +1,4 @@
-<h2>Hi, I'm Edwin 👋  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">                     ![Based in Berlin, Germany](https://img.shields.io/badge/Based%20in-Berlin,%20Germany-36BCF7?style=for-the-badge&logo=googlemaps&logoColor=white)</h2>
+<h2>Hi, I'm Edwin 👋  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">                     ![Based in Berlin, Germany](https://img.shields.io/badge/Based%20in-Berlin,%20Germany-36BCF7?style=for-the-badge&logo=googlemaps&logoColor=white) </h2>
 
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
