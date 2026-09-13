@@ -1,4 +1,4 @@
-<h2>Hi, I'm Edwin 👋  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">                     ![Based in Berlin, Germany](https://img.shields.io/badge/Based%20in-Berlin,%20Germany-36BCF7?style=for-the-badge&logo=googlemaps&logoColor=white) </h2>
+<h2>Hi, I'm Edwin 👋  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">  </h2>
 
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -8,7 +8,7 @@
 
 <!-- Location lives here as a tag, deliberately: Edwin asked 2026-09-13 to keep the typing
      animation to work and skill lines only. The cyan matches the typing SVG's colour. -->
-<!-- ![Based in Berlin, Germany](https://img.shields.io/badge/Based%20in-Berlin,%20Germany-36BCF7?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Based in Berlin, Germany](https://img.shields.io/badge/Based%20in-Berlin,%20Germany-36BCF7?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <!-- Optional right-aligned GIF. Pick one on giphy.com, use Share > Copy GIF Link, then uncomment:
 <img align="right" src="PASTE_GIF_URL_HERE" width="230" alt="" />
