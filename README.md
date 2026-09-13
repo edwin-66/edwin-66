@@ -1,14 +1,17 @@
 <h2>Hi, I'm Edwin 👋  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">  </h2>
 
+<!-- Location as a right-corner badge, not a line of its own: Edwin asked 2026-09-13 for it
+     out of the typing animation (work/skill lines only there) and out of a separate full-width
+     line (too much space for the information it carries). align="right" floats it to the top
+     right without pushing the h2 or the typing line down -- same mechanism as the right-aligned
+     GIF convention already commented out below. -->
+<img align="right" src="https://img.shields.io/badge/Based%20in-Berlin,%20Germany-36BCF7?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Based in Berlin, Germany" />
+
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer;RAG+and+multi-agent+systems+in+production;Observability%2C+tracing+and+LLM+evaluation;Claude+Code%2C+MCP%2C+n8n%2C+LangChain%2C+OpenTelemetry&font=Fira+Code&width=660&height=45&color=36BCF7&vCenter=true&pause=1000&size=22" alt="AI Engineer. RAG and multi-agent systems in production. Observability, tracing and LLM evaluation. Claude Code, MCP, n8n, LangChain, OpenTelemetry." />
   </a>
 </p>
-
-<!-- Location lives here as a tag, deliberately: Edwin asked 2026-09-13 to keep the typing
-     animation to work and skill lines only. The cyan matches the typing SVG's colour. -->
-![Based in Berlin, Germany](https://img.shields.io/badge/Based%20in-Berlin,%20Germany-36BCF7?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <!-- Optional right-aligned GIF. Pick one on giphy.com, use Share > Copy GIF Link, then uncomment:
 <img align="right" src="PASTE_GIF_URL_HERE" width="230" alt="" />
